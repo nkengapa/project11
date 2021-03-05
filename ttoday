@@ -1,1 +1,4 @@
-this is change from local repository
+<<<<<<< HEAD
+=======
+this change is from remote location
+>>>>>>> 09ae18368707dbf41f2a33db72c18f6c5820398a
